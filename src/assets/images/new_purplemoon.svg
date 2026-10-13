@@ -1,0 +1,55 @@
+<svg viewBox="0 0 320 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="2" y="62" fill="#ffffff" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 66px; font-weight: 800; letter-spacing: -0.04em;">purplem</text>
+  <g transform="translate(254, 43)">
+    <defs>
+      <clipPath id="sphere-clip-static">
+        <circle cx="0" cy="0" r="26" />
+      </clipPath>
+    </defs>
+    <g clipPath="url(#sphere-clip-static)">
+      <rect x="-24" y="-26" width="6" height="6" rx="1" fill="#9d87e2" opacity="0.65" />
+      <rect x="-16" y="-26" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-7" y="-26" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="2" y="-26" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="11" y="-26" width="6" height="6" rx="1" fill="#9d87e2" opacity="0.75" />
+      <rect x="-26" y="-18" width="6" height="6" rx="1" fill="#9d87e2" opacity="0.8" />
+      <rect x="-18" y="-18" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-9" y="-18" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="0" y="-18" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="9" y="-18" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="18" y="-18" width="6" height="6" rx="1" fill="#9d87e2" opacity="0.75" />
+      <rect x="-26" y="-10" width="6" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-18" y="-10" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-9" y="-10" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="0" y="-10" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="9" y="-10" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="18" y="-10" width="6" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-26" y="-2" width="6" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-18" y="-2" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-9" y="-2" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="0" y="-2" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="9" y="-2" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="18" y="-2" width="6" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-26" y="6" width="6" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-18" y="6" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-9" y="6" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="0" y="6" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="9" y="6" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="18" y="6" width="6" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-24" y="14" width="6" height="6" rx="1" fill="#9d87e2" opacity="0.9" />
+      <rect x="-16" y="14" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-7" y="14" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="2" y="14" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="11" y="14" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="20" y="14" width="5" height="6" rx="1" fill="#9d87e2" opacity="0.6" />
+      <rect x="-18" y="22" width="6" height="6" rx="1" fill="#9d87e2" opacity="0.7" />
+      <rect x="-10" y="22" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="-1" y="22" width="7" height="6" rx="1" fill="#9d87e2" />
+      <rect x="8" y="22" width="7" height="6" rx="1" fill="#9d87e2" />
+      <path d="M -18 -8 C -14 -20 6 -24 16 -12 C 22 -4 20 12 12 18 C 4 24 -10 20 -16 12 C -22 4 -18 -4 -10 -8 C -4 -10 4 -8 8 -2 C 12 4 8 12 2 12 C -4 12 -8 6 -4 0 C -2 -4 4 -4 6 0" fill="#0b0916" />
+      <circle cx="2" cy="-4" r="2.5" fill="#00b8ff" opacity="0.9" />
+    </g>
+    <circle cx="0" cy="0" r="26" stroke="#9d87e2" stroke-width="1.5" fill="none" opacity="0.4" />
+  </g>
+  <text x="285" y="62" fill="#ffffff" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 66px; font-weight: 800; letter-spacing: -0.04em;">n</text>
+</svg>

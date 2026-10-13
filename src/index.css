@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --purple-main: #755fbe;
+    --cyan-accent: #00b8ff;
+    --dark-bg: #0b0916;
+    --dark-card: #141026;
+    --dark-card-hover: #1c1735;
+    --dark-border: rgba(117, 95, 190, 0.22);
+  }
+
+  html {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color-scheme: dark;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #0b0916;
+    color: #f1f0f8;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom glow and backdrop effects */
+.violet-glow {
+  box-shadow: 0 0 40px -10px rgba(117, 95, 190, 0.35);
+}
+
+.cyan-glow {
+  box-shadow: 0 0 35px -8px rgba(0, 184, 255, 0.3);
+}
+
+.glow-border {
+  border: 1px solid rgba(117, 95, 190, 0.3);
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.glow-border:hover {
+  border-color: rgba(0, 184, 255, 0.6);
+  box-shadow: 0 0 25px rgba(0, 184, 255, 0.18);
+}
